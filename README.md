@@ -7,7 +7,10 @@
 - 💬  &nbsp;I dabble in Flutter, Java, Python, Rust, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
 - 📝  &nbsp;I often read blogs about random tips/tricks (mostly) related to Flutter [at] [Flutter Geeky Ants](https://blog.geekyants.com/flutter/home?gi=7972c64db096)
 - ⚡️  &nbsp;Fun fact about me: I love playing 🕹war games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ Aparantly this is why I also talk a lot 🤔
-- 📫  &nbsp;Reach me [at] [irahulcse.io](https://irahulcse.github.io)
+- 📫  &nbsp;Reach me [at] [irahulcse.io](https://irahulcse.github.io) <a href="https://twitter.com/1rahulchandra1"><img width="20" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
+  <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img width="20" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png" alt="LinkedIn" /></a>  
+  <a href="https://wa.me/8595701511"><img width="20" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png" alt="WhatsApp" /></a> 
+</p>
 - 👨🏻‍💻  &nbsp;Know Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;
