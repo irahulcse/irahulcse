@@ -8,18 +8,18 @@
 - 📝  &nbsp;I often read blogs about random tips/tricks (mostly) related to Flutter [at] [Flutter Geeky Ants](https://blog.geekyants.com/flutter/home?gi=7972c64db096)
 - ⚡️  &nbsp;Fun fact about me: I love playing 🕹war games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ Aparantly this is why I also talk a lot 🤔
 - 📫  &nbsp;Reach me [at] [irahulcse.github.io](https://irahulcse.github.io) 
-<code><a href="https://twitter.com/1rahulchandra1"><img height="23" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png"></a></code>&nbsp;
-<code><a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img height="23" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png"></a></code>&nbsp;
-<code><a href="https://wa.me/8595701511"><img height="23" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png"></code>&nbsp;
+<a href="https://twitter.com/1rahulchandra1"><img height="23" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png"></a>&nbsp;
+<a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img height="23" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png"></a>&nbsp;
+<a href="https://wa.me/8595701511"><img height="23" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png">&nbsp;
 
 - 👨🏻‍💻  &nbsp;Know Languages and Tools:
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>&nbsp;
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>&nbsp;
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>&nbsp;
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>&nbsp;
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&nbsp;
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>&nbsp;
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;
-<code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> &nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">&nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">&nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png">&nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">&nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
+<img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> &nbsp;
 
 ![Rahul GitHub Stats](https://github-readme-stats.vercel.app/api?username=irahulcse&show_icons=true&hide_border=true)
