@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img height="26" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png"></a>&nbsp;
 <a href="https://wa.me/8595701511"><img height="26" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png">&nbsp;
 
-- 👨🏻‍💻  &nbsp;Know Languages and Tools:&nbsp;
+- 👨🏻‍💻  &nbsp;Know Languages and Tools:&nbsp;:&nbsp;:&nbsp;
 <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">&nbsp;
 <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">&nbsp;
 <img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png">&nbsp;
