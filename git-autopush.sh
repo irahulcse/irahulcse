@@ -1,5 +1,5 @@
 #!/bin/sh
 git pull origin master
 git add .
-git commit -m "Update README.md"
+git commit -m "Final Commit's and Update README.md"
 git push -f origin master
