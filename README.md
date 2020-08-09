@@ -11,8 +11,7 @@
 <a href="https://twitter.com/1rahulchandra1"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png"></a>&nbsp;
 <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png"></a>&nbsp;
 <a href="https://wa.me/8595701511"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png">&nbsp;         
-
-- 👨🏻‍💻  &nbsp;Known Tools and Languages [:]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- 👨🏻‍💻  &nbsp;Known Tools and Languages [:]&nbsp;&nbsp;&nbsp;&nbsp;
 <a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a>&nbsp;
 <a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></a>&nbsp;
 <a href=""><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></a>&nbsp;
