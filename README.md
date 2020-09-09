@@ -1,6 +1,4 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px">, I am Rahul Chandra <h1>
-<h3 align="left">A passionate Full Stack Developer. <img src="https://komarev.com/ghpvc/?username=irahulcse" alt="irahulcse" /></h3>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
 - 👨🏻‍💻  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer. Currently, I am working as a Software Development Intern @Marsplay. 
 - 👨🏻‍🔬  &nbsp;I like experimenting with tech. This has led me into many interesting domains such as writing code/co-authoring a paper for creating a software platform for scaling [multidimensional data](https://joss.theoj.org/papers/10.21105/joss.02306) and creating Apps which can help in easing our day to day life.
