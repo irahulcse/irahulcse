@@ -1,7 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px">, I am Rahul Chandra
+<p align="center">
 <a href="https://twitter.com/1rahulchandra1"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png"></a>&nbsp;
 <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png"></a>&nbsp;
 <a href="https://wa.me/8595701511"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png">
+</p>
 </h1>
 <h3 align="left">A passionate Full Stack Developer.</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
