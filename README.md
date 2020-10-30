@@ -1,7 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px">, I am Rahul Chandra
 </h1>
-<h2 align="center">![](https://komarev.com/ghpvc/?username=irahulcse&color=green)</h2>
-
 <h3 align="left">A passionate Full Stack Developer.</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
