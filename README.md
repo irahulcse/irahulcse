@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px">, I am Rahul Chandra
 </h1>
-<h3 align="left">A passionate Full Stack Developer.</h3>
+<h3 align="left">A passionate Full Stack Developer. 
 ![](https://visitor-badge.glitch.me/badge?page_id=irahulcse.irahulcse)
+</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
 - 👨🏻‍💻  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer. Currently, I am working as a Software Development Intern @Marsplay. 
