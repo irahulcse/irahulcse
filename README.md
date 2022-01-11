@@ -2,6 +2,8 @@
 </h1>
 <h3 align="left">A passionate Full Stack Developer. 
 </h3>
+<h5>![](https://komarev.com/ghpvc/?username=irahulcse&color=green)
+</h5>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
 - 👨🏻‍💻  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer. Currently I am working as Frontend cum DevOps Engineer at [@Zaamo](wwww.zaamo.co). Experience of working with multiple startups like [@ Mosaic Wellness](https://www.mosaicwellness.in/) in domains like DevOps, Mobile App Dev and Website development.
