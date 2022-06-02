@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="23px">, I am Rahul Chandra
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px">, I am Rahul Chandra
 </h1>
 <h3 align="left">A passionate Full Stack Developer. 
 </h3>
