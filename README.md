@@ -4,7 +4,7 @@
 </h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 📝  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer.Currently, a Master's Computer Science Grad Student at University of Stuttgart, Germany. 
+- 📝  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer. Currently, a Master's Computer Science Grad Student at University of Stuttgart, Germany. 
 - 👨🏻‍💻 Previously, I had worked as Frontend cum DevOps Engineer at [@Zaamo](https://www.zaamo.co/). Experience of working with multiple startups like [@ Mosaic Wellness](https://www.mosaicwellness.in/) in domains like DevOps, Mobile App Dev and Website development.
 - 👨🏻‍🔬  &nbsp;I like to keep experimenting with tech. This has led me into many interesting domains such as writing code/co-authoring a paper for creating a software platform for scaling [multidimensional data](https://joss.theoj.org/papers/10.21105/joss.02006) and creating Apps which can help in easing our day to day life.
 - 🤗  &nbsp;I love contributing to the open source ecosystem and the community by giving talks, [co-authoring/reviewing papers](https://joss.theoj.org/papers/10.21105/joss.02006), [building Flutter libraries/mini apps](https://github.com/irahulcse/A-Complete-Guide-To-Flutter), etc. whenever I can.
