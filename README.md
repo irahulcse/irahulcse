@@ -20,7 +20,7 @@
 <p align="center">
 <a href="https://twitter.com/1rahulchandra1"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png"></a>&nbsp;
 <a href="https://www.linkedin.com/in/rahul-chandra-a8371b11b/"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png"></a>&nbsp;
-<a href="https://wa.me/8595701511"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png">
+<a href="https://wa.me/4917634461365"><img height="29" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png">
 </p>
   
 <div align="center">
