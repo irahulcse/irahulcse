@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
 - 👨‍🎓🚀📝  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer. 
-- 🎓 I am currently pursuing my Master's in Computer Science at the prestigious University of Stuttgart, where I am currently in my 4th semester. 
+- 🎓 I am currently pursuing my Master's in Computer Science at the prestigious University of Stuttgart.
 - 💻🔬👨‍💻 In addition to my studies, I am also working as a student software engineer at GroupM GmbH based in  Dusseldorf, where I am gaining valuable industry experience.
 -  🖥️💼 I have also had the privilege of working as a Werkstudent with Vitrum GmbH, an IT firm based in Bavaria, and as a Research Assistant at the IPVS department of my university. These opportunities have enriched my academic journey and allowed me to apply my theoretical knowledge in real-world settings.
 - 👨🏻‍💻 Previously, I had worked as Frontend cum DevOps Engineer at [@Zaamo](https://www.zaamo.co/). Experience of working with multiple startups like [@ Mosaic Wellness](https://www.mosaicwellness.in/) in domains like DevOps, Mobile App Dev and Website development.
