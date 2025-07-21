@@ -5,18 +5,18 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 👨‍🎓🚀📝  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer. 
-- 🎓 I am currently pursuing my Master's in Computer Science at the prestigious University of Stuttgart.
+- 👨‍🎓🚀📝  &nbsp;I’m primarily an <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/flutterio-icon.svg" height=16 /> Mobile App and <img src="https://github.com/irahulcse/irahulcse/blob/master/assets/react.svg" height=16 /> Front End Developer cum Full Stack Developer. 
+- 🎓 I have completed my Master's in Applied Computer Science at SRH University Heidelberg, and also I am currently pursuing my second Master's in Computer Science at the prestigious University of Stuttgart.
 - 💻🔬👨‍💻 In addition to my studies, I am also working as a student software engineer at GroupM GmbH based in  Dusseldorf from October 2022 onwards, where I am gaining valuable industry experience.
 -  🖥️💼 I have also had the privilege of working as a Werkstudent with Vitrum GmbH, an IT firm based in Bavaria, and as a Research Assistant at the IPVS department of my university. These opportunities have enriched my academic journey and allowed me to apply my theoretical knowledge in real-world settings.
-- 👨🏻‍💻 Previously, I had worked as Frontend cum DevOps Engineer at [@Zaamo](https://www.zaamo.co/). Experience of working with multiple startups like [@ Mosaic Wellness](https://www.mosaicwellness.in/) in domains like DevOps, Mobile App Dev and Website development.
-- 👨🏻‍🔬  &nbsp;I like to keep experimenting with tech. This has led me into many interesting domains such as writing code/co-authoring a paper for creating a software platform for scaling [multidimensional data](https://joss.theoj.org/papers/10.21105/joss.02006) and creating Apps which can help in easing our day to day life.
-- 🤗  &nbsp;I love contributing to the open source ecosystem and the community by giving talks, [co-authoring/reviewing papers](https://joss.theoj.org/papers/10.21105/joss.02006), [building Flutter libraries/mini apps](https://github.com/irahulcse/A-Complete-Guide-To-Flutter), etc. whenever I can.
+- 👨🏻‍💻 Previously, I had worked as a Frontend cum DevOps Engineer at [@Zaamo](https://www.zaamo.co/). Experience of working with multiple startups like [@ Mosaic Wellness](https://www.mosaicwellness.in/) in domains like DevOps, Mobile App Dev and Website development.
+- 👨🏻‍🔬  &nbsp;I like to keep experimenting with tech. This has led me into many interesting domains, such as writing code/co-authoring a paper for creating a software platform for scaling [multidimensional data](https://joss.theoj.org/papers/10.21105/joss.02006) and creating Apps which can help in easing our day-to-day life.
+- 🤗  &nbsp; I love contributing to the open source ecosystem and the community by giving talks, [co-authoring/reviewing papers](https://joss.theoj.org/papers/10.21105/joss.02006), [building Flutter libraries/mini apps](https://github.com/irahulcse/A-Complete-Guide-To-Flutter), etc. whenever I can.
 - 🌱  &nbsp;I’m currently (trying to) learn Python(Django) for backend dev.
-- 💬  &nbsp;I dabble in Flutter, Java, Python, Rust, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
-- 📝  &nbsp;I often read blogs about random tips/tricks (mostly) related to Flutter [at] [Flutter Geeky Ants](https://blog.geekyants.com/flutter/home?gi=7972c64db096)
+- 💬  &nbsp; I dabble in Flutter, Java, Python, Rust, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
+- 📝  &nbsp; I often read blogs about random tips/tricks (mostly) related to Flutter [at] [Flutter Geeky Ants](https://blog.geekyants.com/flutter/home?gi=7972c64db096)
 - ⚡️  &nbsp;Fun fact about me: I love playing 🕹war games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ Aparantly this is why I also talk a lot 🤔
-- 📫  &nbsp;Reach me [at] [irahulcse.github.io](https://irahulcse.github.io)
+- 📫  &nbsp; Reach me [at] [irahulcse.github.io](https://irahulcse.github.io)
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=irahulcse&style=for-the-badge">
