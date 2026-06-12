@@ -11,15 +11,15 @@
 
 - 🎓 Completed my **Master's in Computer Science / Applied Computer Science** via a combined track at the **University of Stuttgart and SRH University Heidelberg**.
 
-- 🖥️💼 Currently working as a full-time **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I owned backend microservice design, token authorization safety frameworks, and automated Keycloak vulnerabily scanners project integrated with CI/CD pipeline for continuous monitoring of Keycloak's realm level configuration.
+- 🖥️💼 Currently working as a full-time **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I own backend microservice design, token authorisation safety frameworks, and an automated Keycloak vulnerability scanner project integrated with the CI/CD pipeline for continuous monitoring of Keycloak's realm-level configuration.
 
-- 💻🔬👨‍💻 Prior to that, gained extensive industry experience as a Full-Stack Working Student at **GroupM GmbH** in Düsseldorf, maintaining critical .NET Core enterprise API endpoints and building high-performance Angular dashboards.
+- 💻🔬👨‍💻 Before that, gained extensive industry experience as a Full-Stack Working Student at **GroupM GmbH** in Düsseldorf, maintaining a critical Angular-based Frontend and C# .NET Core Backend systems.
 
 - 🏢 Shared an enriching academic and professional journey working as a Software Development Werkstudent with **Vitrum GmbH** in Berlin, and as a graduate Research Assistant within the **IPVS department** at the University of Stuttgart.
 
 - 👨🏻‍💻 Began my professional track in India as a DevOps / Full Stack Engineer at **[@Zaamo](https://www.zaamo.co/)**, creating frontend components, optimising performance and integrated different consumers experience tracking behaviour using Amplitude and Google Analytics, and collaborated with startups like **[@Mosaic Wellness](https://www.mosaicwellness.in/)** across website development and DevOps tracks on their Android and Web Project.
 
-- 👨🏻‍🔬 &nbsp; I love experimenting with complex code and system performance profiling. This passion led to co-authoring an open-source research platform paper for scaling [multidimensional data processing in Transmission Electron Microscopy (LiberTEM)](https://doi.org/10.21105/joss.02006) and winning **1st Place at the SofDCar Hackathon II** for decentralized routing layouts.
+- 👨🏻‍🔬 &nbsp; I love experimenting with complex code and system performance profiling. This passion led to co-authoring an open-source research platform paper for scaling [multidimensional data processing in Transmission Electron Microscopy (LiberTEM)](https://doi.org/10.21105/joss.02006) and winning **1st Place at the SofDCar Hackathon II** for decentralised routing layouts.
 
 - 🤗 &nbsp; Active contributor to the open-source ecosystem and tech community through engineering presentations, reviewing research papers, and maintaining accessible codebases like [Flutter libraries and mini-apps](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
 
