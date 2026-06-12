@@ -5,19 +5,31 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 👨‍🎓🚀📝  &nbsp; systems for e-commerce, manufacturing and advertising industries.
-- Strong in Java, Spring, JavaScript/Typescript, Angular/ReactJS, Python, as well as DevOps and Cloud technologies, especially IAM. 
-- 🎓 I have completed my Master's in Applied Computer Science at SRH University Heidelberg/University of Stuttgart(combined coursework and thesis).
-- 💻🔬👨‍💻 In addition to my studies, I am also working as a student software engineer at GroupM GmbH, based in  Düsseldorf from October 2022 onwards, where I am gaining valuable industry experience.
--  🖥️💼 I have also had the privilege of working as a Werkstudent with Vitrum GmbH, an IT firm based in Bavaria, and as a Research Assistant at the IPVS department of my university. These opportunities have enriched my academic journey and allowed me to apply my theoretical knowledge in real-world settings.
-- 👨🏻‍💻 Previously, I had worked as a Frontend cum DevOps Engineer at [@Zaamo](https://www.zaamo.co/). Experience of working with multiple startups like [@ Mosaic Wellness](https://www.mosaicwellness.in/) in domains like DevOps, Mobile App Dev and Website development.
-- 👨🏻‍🔬  &nbsp;I like to keep experimenting with tech. This has led me into many interesting domains, such as writing code/co-authoring a paper for creating a software platform for scaling [multidimensional data](https://joss.theoj.org/papers/10.21105/joss.02006) and creating Apps which can help in easing our day-to-day life.
-- 🤗  &nbsp; I love contributing to the open-source ecosystem and the community by giving talks, [co-authoring/reviewing papers](https://joss.theoj.org/papers/10.21105/joss.02006), [building Flutter libraries/mini apps](https://github.com/irahulcse/A-Complete-Guide-To-Flutter), etc., whenever I can.
-- 🌱  &nbsp;I’m currently (trying to) learn Python(Django) for backend dev.
-- 💬  &nbsp; I dabble in Flutter, Java, Python, Rust, UI/UX and spend most of my time automating my life via literally living inside the terminal 🤷🏻‍♂️
-- 📝  &nbsp; I often read blogs about random tips/tricks (mostly) related to Flutter [at] [Flutter Geeky Ants](https://blog.geekyants.com/flutter/home?gi=7972c64db096)
-- ⚡️  &nbsp;Fun fact about me: I love playing 🕹war games and survive on ☕️ instead of energy drinks 🙇🏻‍♂️ Aparantly this is why I also talk a lot 🤔
-- 📫  &nbsp; Reach me [at] [irahulcse.github.io](https://irahulcse.github.io)
+- 👨‍🎓🚀📝 &nbsp; Backend & Full Stack Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, software automation, and advertising industries.
+
+- 💪 Strong in **Java (Spring Boot, Quarkus), C# .NET Core, JavaScript/TypeScript (Angular/ReactJS), and Python**, with deep technical expertise in DevOps, cloud-native deployments (Docker, Kubernetes, Terraform), and Identity & Access Management (IAM/OAuth2/JWT). 
+
+- 🎓 Completed my **Master's in Computer Science / Applied Computer Science** via a combined track at the **University of Stuttgart and SRH University Heidelberg**.
+
+- 🖥️💼 Currently working as a full-time **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I owned backend microservice design, token authorization safety frameworks, and automated Keycloak vulnerabily scanners project integrated with CI/CD pipeline for continuous monitoring of Keycloak's realm level configuration.
+
+- 💻🔬👨‍💻 Prior to that, gained extensive industry experience as a Full-Stack Working Student at **GroupM GmbH** in Düsseldorf, maintaining critical .NET Core enterprise API endpoints and building high-performance Angular dashboards.
+
+- 🏢 Shared an enriching academic and professional journey working as a Software Development Werkstudent with **Vitrum GmbH** in Berlin, and as a graduate Research Assistant within the **IPVS department** at the University of Stuttgart.
+
+- 👨🏻‍💻 Began my professional track in India as a DevOps / Full Stack Engineer at **[@Zaamo](https://www.zaamo.co/)**, creating frontend components, optimising performance and integrated different consumers experience tracking behaviour using Amplitude and Google Analytics, and collaborated with startups like **[@Mosaic Wellness](https://www.mosaicwellness.in/)** across website development and DevOps tracks on their Android and Web Project.
+
+- 👨🏻‍🔬 &nbsp; I love experimenting with complex code and system performance profiling. This passion led to co-authoring an open-source research platform paper for scaling [multidimensional data processing in Transmission Electron Microscopy (LiberTEM)](https://doi.org/10.21105/joss.02006) and winning **1st Place at the SofDCar Hackathon II** for decentralized routing layouts.
+
+- 🤗 &nbsp; Active contributor to the open-source ecosystem and tech community through engineering presentations, reviewing research papers, and maintaining accessible codebases like [Flutter libraries and mini-apps](https://github.com/irahulcse/A-Complete-Guide-To-Flutter).
+
+- 🌱 &nbsp; Constantly advancing my skills in predictive system failure frameworks, automated performance diagnostics, and cloud-native service mesh telemetry patterns.
+
+- 💬 &nbsp; I focus heavily on Java ecosystem architecture, Python data scripting, Rust, and systems optimization—spending a massive portion of my day automating workflows and living directly inside the terminal terminal 🤷🏻‍♂️
+
+- 📫 &nbsp; Explore my portfolio or drop a line at: **[rahulchandrajha.com](https://rahulchandrajha.com)** / **[1rahulchandra1@gmail.com](mailto:1rahulchandra1@gmail.com)**
+
+- ⚡️ &nbsp; Fun fact about me: I love playing 🕹️ real-time strategy or war games and strictly survive on ☕ coffee instead of energy drinks. Apparently, this excessive caffeine intake is why I write code fast and talk a lot! 🙇🏻‍♂️
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=irahulcse&style=for-the-badge">
