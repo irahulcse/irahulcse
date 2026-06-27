@@ -7,11 +7,12 @@
 
 - 👨‍🎓🚀📝 &nbsp; Backend & Full Stack Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, software automation, and advertising industries.
 
-- 💪 Strong in **Java (Spring Boot, Quarkus), C# .NET Core, JavaScript/TypeScript (Angular/ReactJS), and Python**, with deep technical expertise in DevOps, cloud-native deployments (Docker, Kubernetes, Terraform), and Identity & Access Management (IAM/OAuth2/JWT). 
+- 💪 Strong in **Java (Spring Boot, Quarkus), C# .NET Core, JavaScript/TypeScript (Angular/ReactJS), Firebase, and Python**, with deep technical expertise in DevOps, cloud-native deployments (Docker, Kubernetes, Terraform), and Identity & Access Management (IAM/OAuth2/JWT). 
+
 
 - 🎓 Completed my **Master's in Computer Science / Applied Computer Science** via a combined track at the **University of Stuttgart and SRH University Heidelberg**.
 
-- 🖥️💼 Currently working as a full-time **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I own backend microservice design, token authorisation safety frameworks, and an automated Keycloak vulnerability scanner project integrated with the CI/CD pipeline for continuous monitoring of Keycloak's realm-level configuration.
+- 🖥️💼 Currently working as a full-time **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I own a backend Easycloak full-stack delegated administration tool, microservice design, token authorisation safety frameworks, and an automated Keycloak vulnerability scanner project integrated with the CI/CD pipeline for continuous monitoring of Keycloak's realm-level configuration.
 
 - 💻🔬👨‍💻 Before that, gained extensive industry experience as a Full-Stack Working Student at **GroupM GmbH** in Düsseldorf, maintaining a critical Angular-based Frontend and C# .NET Core Backend systems.
 
