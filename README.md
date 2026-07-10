@@ -7,7 +7,7 @@
 
 - 👨‍🎓🚀📝 &nbsp; Backend & Full Stack Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, software automation, and advertising industries.
 
-- 💪 Strong in **Java (Spring Boot, Quarkus), C# .NET Core, JavaScript/TypeScript (Angular/ReactJS), Firebase, and Python**, with deep technical expertise in DevOps, cloud-native deployments (Docker, Kubernetes, Terraform), and Identity & Access Management (IAM/OAuth2/JWT). 
+- 💪 Strong in **Java (Spring Boot, Quarkus), C# .NET Core, JavaScript/TypeScript (Angular/ReactJS), Firebase, and Python**, with deep technical expertise in **DevOps**, cloud-native deployments **(Docker, Kubernetes, Terraform)**, and **Identity & Access Management (IAM/OAuth2/JWT)**. 
 
 
 - 🎓 Completed my **Master's in Computer Science / Applied Computer Science** via a combined track at the **University of Stuttgart and SRH University Heidelberg**.
