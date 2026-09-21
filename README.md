@@ -5,20 +5,22 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 👨‍🎓🚀📝 &nbsp; Backend & Full Stack Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, software automation, and advertising industries.
+- 👨‍🎓🚀📝 &nbsp; Full Stack Software Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, software automation, and advertising industries.
 
-- 💪 Strong in **Java (Spring Boot, Quarkus), C# .NET Core, JavaScript/TypeScript (Angular/ReactJS), Firebase, and Python**, with deep technical expertise in **DevOps**, cloud-native deployments **(Docker, Kubernetes, Terraform)**, and **Identity & Access Management (IAM/OAuth2/JWT)**. 
+-  **Full-time working** with **@QuickPay-38** as a **Forward Deployed Software Engineer** with defence companies on projects that work at the intersection of **UAV, Robotics, AI and Agentic Software Development** using SOTA tech stacks. 
+
+- 💪 Strong in **Java (Spring Boot, Quarkus), C# .NET Core, JavaScript/TypeScript (Angular/ReactJS), Firebase, and Python 3.12**, with deep technical expertise in **DevOps**, cloud-native deployments **(Docker, Kubernetes, Terraform)**, and **Identity & Access Management (IAM/OAuth2/JWT)**. 
 
 
 - 🎓 Completed my **Master's in Computer Science / Applied Computer Science** via a combined track at the **University of Stuttgart and SRH University Heidelberg**.
 
 - 🖥️💼 Currently working as a full-time **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I own a backend Easycloak full-stack delegated administration tool, microservice design, token authorisation safety frameworks, and an automated Keycloak vulnerability scanner project integrated with the CI/CD pipeline for continuous monitoring of Keycloak's realm-level configuration.
 
-- 💻🔬👨‍💻 Before that, gained extensive industry experience as a Full-Stack Working Student at **GroupM GmbH** in Düsseldorf, maintaining a critical Angular-based Frontend and C# .NET Core Backend systems.
+- 💻🔬👨‍💻 Before that, gained extensive industry experience as a Full-Stack Working Student at **GroupM GmbH** in Düsseldorf, maintaining critical Angular-based Frontend and C# .NET Core Backend systems.
 
 - 🏢 Shared an enriching academic and professional journey working as a Software Development Werkstudent with **Vitrum GmbH** in Berlin, and as a graduate Research Assistant within the **IPVS department** at the University of Stuttgart.
 
-- 👨🏻‍💻 Began my professional track in India as a DevOps / Full Stack Engineer at **[@Zaamo](https://www.zaamo.co/)**, creating frontend components, optimising performance and integrated different consumers experience tracking behaviour using Amplitude and Google Analytics, and collaborated with startups like **[@Mosaic Wellness](https://www.mosaicwellness.in/)** across website development and DevOps tracks on their Android and Web Project.
+- 👨🏻‍💻 Began my professional track in India as a DevOps / Full Stack Engineer at **[@Zaamo](https://www.zaamo.co/)**, creating frontend components, optimising performance and integrating different consumer experience tracking behaviour using Amplitude and Google Analytics, and collaborating with startups like **[@Mosaic Wellness](https://www.mosaicwellness.in/)** across website development and DevOps tracks on their Android and Web Project.
 
 - 👨🏻‍🔬 &nbsp; I love experimenting with complex code and system performance profiling. This passion led to co-authoring an open-source research platform paper for scaling [multidimensional data processing in Transmission Electron Microscopy (LiberTEM)](https://doi.org/10.21105/joss.02006) and winning **1st Place at the SofDCar Hackathon II** for decentralised routing layouts.
 
@@ -26,7 +28,7 @@
 
 - 🌱 &nbsp; Constantly advancing my skills in predictive system failure frameworks, automated performance diagnostics, and cloud-native service mesh telemetry patterns.
 
-- 💬 &nbsp; I focus heavily on Java ecosystem architecture, Python data scripting, Rust, and systems optimization—spending a massive portion of my day automating workflows and living directly inside the terminal terminal 🤷🏻‍♂️
+- 💬 &nbsp; I focus heavily on Java ecosystem architecture, Python data scripting, Rust, and systems optimisation—spending a massive portion of my day automating workflows and living directly inside the terminal 🤷🏻‍♂️
 
 - 📫 &nbsp; Explore my portfolio or drop a line at: **[rahulchandrajha.com](https://rahulchandrajha.com)** / **[1rahulchandra1@gmail.com](mailto:1rahulchandra1@gmail.com)**
 
