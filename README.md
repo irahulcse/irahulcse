@@ -5,7 +5,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 👨‍🎓🚀📝 &nbsp; Full Stack Software Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, software automation, and advertising industries.
+- 👨‍🎓🚀📝 &nbsp; Full Stack Software Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, OS software service, and advertising industries.
 
 -  **Full-time working** with **@QuickPay-38** as a **Forward Deployed Software Engineer** with defence companies on projects that work at the intersection of **UAV, Robotics, AI and Agentic Software Development** using SOTA tech stacks. 
 
