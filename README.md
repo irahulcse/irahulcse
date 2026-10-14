@@ -1,4 +1,4 @@
-<h1 align="right">Hi, I am Rahul Chandra
+<h1 align="centre">Hi, I am Rahul Chandra
 </h1>
 <h3 align="left">A passionate Full Stack Developer. 
 </h3>
