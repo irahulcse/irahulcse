@@ -5,15 +5,15 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 
-- 👨‍🎓🚀📝 &nbsp; Full Stack Software Engineer with **5 years of combined professional and intensive working student experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the e-commerce, OS software service, and advertising industries.
+- 👨‍🎓🚀📝 &nbsp; Full Stack Software Engineer with **5 years of combined professional experience**, specialising in building resilient microservices, distributed architectures, and scalable systems for the Robotics, UAV, E-commerce, OSS software service, and Media agencies industries.
 
 -  **Full-time working** with **@QuickPay-38** as a **Forward Deployed Software Engineer** with defence companies on projects that work at the intersection of **UAV, Robotics, AI and Agentic Software Development** using SOTA tech stacks. 
 
-- 💪 Strong in **Java (Spring Boot, Quarkus), JavaScript/TypeScript (Angular/ReactJS), Firebase, and Python 3.12**, with deep technical expertise in **DevOps**, cloud-native deployments **(Docker, Kubernetes, Terraform)**, and **Identity & Access Management (IAM/OAuth2/JWT)**. 
+- 💪 Strong in **Java (Spring Boot, Quarkus), JavaScript/TypeScript (Angular/ReactJS), Supabase/Firebase, and Python 3.12**, with deep technical expertise in **DevOps**, cloud-native deployments **(Docker, Kubernetes, Terraform)**, and **Identity & Access Management (IAM/OAuth2/JWT)**. 
 
-- 🎓 Completed my **Master's in Computer Science / Applied Computer Science** via a combined track at the **University of Stuttgart and SRH University Heidelberg**.
+- 🎓 Completed my **Double Master's in Computer Science / Applied Computer Science** via a combined track at the **University of Stuttgart and SRH University Heidelberg**.
 
-- 🖥️💼 Previously worked full-time as a **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I worked on a backend product, i.e., the Easycloak full-stack delegated administration tool, microservice design, token authorisation safety frameworks, and an automated Keycloak vulnerability scanner project integrated with the CI/CD pipeline for continuous monitoring of Keycloak's realm-level configuration.
+- 🖥️💼 Previously worked full-time as a **Software Engineer at Intension GmbH** in Ostfildern, Germany, where I worked on different backend product/solutions, i.e., the Easycloak full-stack delegated administration platform, microservice design, token authorisation safety frameworks, and an automated Keycloak vulnerability scanner project integrated with the CI/CD pipeline for continuous monitoring of Keycloak's realm-level configuration.
 
 - 💻🔬👨‍💻 Before that, gained extensive industry experience as a Full-Stack Working Student at **GroupM GmbH** in Düsseldorf, maintaining critical Angular-based Frontend and C# .NET Core Backend systems for 2.5 years.
 
@@ -27,7 +27,7 @@
 
 - 📫 &nbsp; Explore my portfolio or drop a line at: **[rahulchandrajha.com](https://rahulchandrajha.com)** / **[1rahulchandra1@gmail.com](mailto:1rahulchandra1@gmail.com)**
 
-- ⚡️ &nbsp; Fun fact about me: I love playing 🕹️ real-time strategy or war games and strictly survive on ☕ coffee instead of energy drinks. Apparently, this excessive caffeine intake is why I write code fast and talk a lot! 🙇🏻‍♂️
+- ⚡️ &nbsp; Fun fact about me: I love playing 🕹️ real-time strategy or war games and strictly survive on ☕ coffee instead of energy drinks. Apparently, this excessive caffeine intake is why I write code fast and like to talk less! 🙇🏻‍♂️
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=irahulcse&style=for-the-badge">
